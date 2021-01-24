@@ -1,0 +1,41 @@
+[[redirects]]
+  from = "/Vert-Shock"
+  to = "https://8dba0c45c3vm9zf2ixqdrhr3zh.hop.clickbank.net/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Trump-2020-Coin"
+  to = "https://91069780g5nqbz0q4hxunr2z01.hop.clickbank.net/"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/Perpetual-Income-365"
+  to = "https://47a9215do9sn8o4hhpv7o82lrd.hop.clickbank.net/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Fight-Ready-Program"
+  to = "https://1b91473-gbrx6k4m8z1knil-3b.hop.clickbank.net/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Senior-Golfers"
+  to = "https://24237az0pbon1v6pnfqbuig83v.hop.clickbank.net/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Viddyoze-Animations"
+  to = "https://5637e6z6l1kqbufgt4huwoqtaj.hop.clickbank.net/"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/net"
+  to = "https://github.com/sunnysinghnitb/thewike/blob/main/netlify.toml"
+  status = 301
+  force = true
